@@ -1,6 +1,8 @@
 # Rick and Morty App
 
-![Demo App](rm.gif)
+<p align="center">
+  <img src="rm.gif" alt="Animated demo" width="300"/>
+</p>
 
 ## Описание проекта
 
